@@ -31,6 +31,7 @@ public class MethodCollection {
 	 * different methods.
 	 * 
 	 * Replace this comment with your own Javadoc comment
+	 * aDDITIONAL TEXT HERE
 	 */
 	public static void main(String[] args) {
 		
